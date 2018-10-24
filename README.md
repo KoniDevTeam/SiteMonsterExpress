@@ -4,7 +4,7 @@ App that checks your website availability and sends notification to you if it is
 **Platform**: **Windows/Linux** (**Debain/Ubuntu/Mint** *(deb packages)*, **RHEL/CentOS/Fedora** *(rpm packages)*, **other linux** *(source compile)*) (in future!)
 ## Download latest version
 This is new Site Monster 1.1 project, that will be written in C++.
-You can download ols Site Monster 1.0.1 [here](https://github.com/KoniDevTeam/SiteMonsterPython/releases/tag/v1.0.1)
+You can download old Site Monster 1.0.1 [here](https://github.com/KoniDevTeam/SiteMonsterPython/releases/tag/v1.0.1)
 ## License
 ![GNU GPL v3 logo](https://www.gnu.org/graphics/gplv3-with-text-136x68.png)
 
